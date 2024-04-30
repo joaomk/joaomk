@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Sinqia
+- 🔭 I’m currently working on Cresol
 - 🌱 I’m currently learning Java, NodeJs, React and React Native.
 - 📫 How to reach me: @joaomk
 
